@@ -1,0 +1,26 @@
+body {
+	background-image: url("fundo.jpg");
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	color: 	#F5FFFA;
+}
+
+.titulo {
+	color: #6A5ACD;
+	font-size: 48px;
+	font-family: Snell Roundhand, cursive;
+}
+
+.sub {
+	color: 	#836FFF;
+	font-size: 38px;
+	font-family: Snell Roundhand, cursive;
+}
+
+.text {
+	color: 	#000000;
+	font-size: 28px;
+	font-family: Snell Roundhand, cursive;
+}
